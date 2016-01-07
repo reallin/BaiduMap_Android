@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/map"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="普通地图"/>
+    <item
+        android:id="@+id/weixing"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="卫星地图"/>
+    <item
+        android:id="@+id/traffic"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="实时交通"/>
+
+</menu>
