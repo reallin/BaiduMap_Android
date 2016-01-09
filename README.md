@@ -3,6 +3,10 @@
 ## 调用百度地图API
 ### 效果图：
 ![](https://github.com/reallin/BaiduMap_Android/blob/master/1.png)
+### 功能
+* 能定位
+* 在地图做标志
+* 能结合传感器正确地定向
 ### 主要接口
 * 注册地图
 ```java
